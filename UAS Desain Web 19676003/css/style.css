@@ -1,0 +1,50 @@
+body{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: cyan;
+	background-color: black;
+	background-image: url(../bg/evo.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 800px;
+	height: 1200px;
+	border: 1px solid white;
+	margin: auto;
+	font-size: 20px;
+}
+.tag{
+	margin-top: 20px;
+	background-image: url(../bg/evo2.png);
+	background-position: left;
+	background-repeat: no-repeat;
+    font-weight: bold;
+    text-align: left;
+    height: 100px;
+}
+ul li a {
+	color: cyan;
+}
+}
+.container{
+	padding: 5px;
+}
+.menu{
+	float: left;
+	height: 800px;
+	padding: 10px;
+}
+.info{
+	float: left;
+	height: 800px;
+	padding: 10px;
+}
+.vouc{
+	float: left;
+	height: 800px;
+	width: 400px;
+	padding: 10px;
+	font-size: 15px;
+}
+}
+.clear{
+	clear: left;
+}
